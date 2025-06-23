@@ -100,3 +100,9 @@ button
     scale: 103%;
     transition: all .2s ease-in-out;
 }
+
+button:active
+{
+    transform: scale(0.90);
+    transition: all .2s ease-in-out;
+}

@@ -103,12 +103,12 @@ button
 
 .generate-button:active
 {
-    transform: scale(90%);
-    transition: all .2s ease-in-out;
+    scale:90%;
+    transition: scale .2s ease-in-out;
 }
 
 .download-button:active
 {
-    transform: scale(90%);
-    transition: all .2s ease-in-out;
+    scale:90%;
+    transition: scale .2s ease-in-out;
 }
